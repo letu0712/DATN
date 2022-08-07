@@ -1,0 +1,54 @@
+==> Args:
+  actions: *
+  batchSize: 256
+  cal_uvd: True
+  co_angle: 0
+  co_angle_pred_gt: 0.1
+  co_diff: 1.0
+  co_direction: 0.1
+  co_dist: 0.1
+  co_temporal: 0
+  crop_uv: 0
+  data_augmentation: True
+  dataset: FPHAB
+  downsample: 1
+  in_channels: 2
+  keypoints: pre59
+  large_decay_epoch: 5
+  layout: fphab_gt
+  learning_rate: 1e-05
+  lr_decay: 0.95
+  model_doc: st_gcn
+  n_joints: 21
+  nepoch: 15
+  optimizer: Adam
+  out_all: True
+  out_channels: 3
+  out_joints: 21
+  pad: 1
+  post_refine: True
+  post_refine_model: model_post_refine_10_eva_post_4870.pth
+  post_refine_reload: 0
+  previous_best_threshold: inf
+  previous_dir: ./results/3_frame/st_gcn/no_pose_refine/pre/
+  previous_post_refine_name: 
+  previous_st_gcn_name: 
+  pro_test: 1
+  pro_train: 1
+  reverse_augmentation: False
+  root_path: data/
+  save_model: 1
+  save_out_type: post
+  save_skl: False
+  show_protocol2: False
+  stgcn_model: model_st_gcn_9_eva_xyz_5165.pth
+  stgcn_reload: 1
+  strategy: spatial
+  stride: 1
+  subset: 1
+  sym_penalty: 0
+  test_augmentation: False
+  type3d: gt59
+  weight_decay: 0.0001
+  workers: 6
+==> Args:

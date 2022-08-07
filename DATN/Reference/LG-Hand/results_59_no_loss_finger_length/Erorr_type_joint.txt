@@ -1,0 +1,16 @@
+	 -----------POST OUT 
+loss gt each joint: 
+loss gt each frame of 1 sample: 52.725409 mm 
+
+
+Thumb 	 51.138798 	 mm
+Index 	 52.926333 	 mm
+Middle 	 52.800529 	 mm
+Ring 	 53.190171 	 mm
+Pinky 	 55.006771 	 mm
+loss gt each finger: 
+Wrist 	 46.983171 	 mm
+MCP 	 47.940375 	 mm
+PIP 	 50.081421 	 mm
+DIP 	 54.507863 	 mm
+TIP 	 59.520426 	 mm

@@ -1,0 +1,171 @@
+open_milk     19.95
+open_soda_can  13.22
+scratch_sponge  13.93
+give_coin     21.75
+wash_sponge   13.51
+open_letter   12.95
+unfold_glasses  13.39
+open_peanut_butter  16.18
+read_letter   16.41
+pour_liquid_soap  15.48
+pour_wine     19.80
+tear_paper    14.84
+open_wallet   14.41
+put_tea_bag   20.02
+high_five     25.22
+charge_cell_phone  22.82
+handshake     25.06
+light_candle  15.06
+toast_wine    17.81
+scoop_spoon   12.60
+flip_sponge   15.86
+receive_coin  19.97
+close_peanut_butter  14.96
+use_flash     30.02
+flip_pages    21.62
+close_liquid_soap  21.38
+close_milk    16.43
+squeeze_sponge  16.14
+pour_juice_bottle  15.63
+pour_milk     17.38
+take_letter_from_enveloppe  12.37
+use_calculator  18.76
+write         13.83
+put_salt      16.62
+clean_glasses  18.42
+prick         18.40
+open_liquid_soap  19.68
+open_juice_bottle  16.72
+close_juice_bottle  14.41
+sprinkle      10.50
+give_card     23.67
+drink_mug     19.83
+stir          10.60
+put_sugar     12.97
+squeeze_paper  15.54
+Average       17.25
+loss gt each frame of 1 sample: 16.986211 mm
+loss thumb each frame of 1 sample: 16.194583 mm
+loss index each frame of 1 sample: 16.939363 mm
+loss middle each frame of 1 sample: 16.699062 mm
+loss ring each frame of 1 sample: 16.863543 mm
+loss pinky each frame of 1 sample: 18.197918 mm
+loss Wrist each frame of 1 sample: 17.132560 mm
+loss MCP each frame of 1 sample: 17.073232 mm
+loss PIP each frame of 1 sample: 15.280518 mm
+loss DIP each frame of 1 sample: 16.390623 mm
+loss TIP each frame of 1 sample: 19.171203 mm
+open_milk     24.64
+open_soda_can  14.79
+scratch_sponge  21.26
+give_coin     22.77
+wash_sponge   17.77
+open_letter   16.89
+unfold_glasses  15.60
+open_peanut_butter  17.18
+read_letter   20.24
+pour_liquid_soap  19.01
+pour_wine     16.94
+tear_paper    19.74
+open_wallet   18.83
+put_tea_bag   22.19
+high_five     29.80
+charge_cell_phone  31.48
+handshake     22.31
+light_candle  17.37
+toast_wine    21.11
+scoop_spoon   15.53
+flip_sponge   18.28
+receive_coin  22.70
+close_peanut_butter  16.59
+use_flash     34.10
+flip_pages    21.04
+close_liquid_soap  25.17
+close_milk    18.81
+squeeze_sponge  15.53
+pour_juice_bottle  18.43
+pour_milk     19.22
+take_letter_from_enveloppe  17.82
+use_calculator  22.91
+write         16.96
+put_salt      18.94
+clean_glasses  16.25
+prick         18.64
+open_liquid_soap  20.22
+open_juice_bottle  21.55
+close_juice_bottle  19.87
+sprinkle      13.64
+give_card     24.10
+drink_mug     20.88
+stir          15.17
+put_sugar     15.94
+squeeze_paper  20.50
+Average       19.97
+loss gt each frame of 1 sample: 19.669738 mm
+loss thumb each frame of 1 sample: 19.098868 mm
+loss index each frame of 1 sample: 20.047249 mm
+loss middle each frame of 1 sample: 18.637335 mm
+loss ring each frame of 1 sample: 19.560453 mm
+loss pinky each frame of 1 sample: 20.673296 mm
+loss Wrist each frame of 1 sample: 20.995678 mm
+loss MCP each frame of 1 sample: 22.070342 mm
+loss PIP each frame of 1 sample: 18.374265 mm
+loss DIP each frame of 1 sample: 18.459098 mm
+loss TIP each frame of 1 sample: 19.510058 mm
+open_milk     24.12
+open_soda_can  15.53
+scratch_sponge  19.74
+give_coin     23.41
+wash_sponge   18.21
+open_letter   16.80
+unfold_glasses  16.44
+open_peanut_butter  20.09
+read_letter   22.88
+pour_liquid_soap  17.53
+pour_wine     18.79
+tear_paper    20.22
+open_wallet   17.49
+put_tea_bag   22.60
+high_five     29.63
+charge_cell_phone  29.71
+handshake     24.93
+light_candle  18.39
+toast_wine    21.61
+scoop_spoon   13.37
+flip_sponge   18.60
+receive_coin  20.42
+close_peanut_butter  17.05
+use_flash     34.63
+flip_pages    24.12
+close_liquid_soap  25.18
+close_milk    19.85
+squeeze_sponge  18.78
+pour_juice_bottle  16.37
+pour_milk     20.56
+take_letter_from_enveloppe  17.65
+use_calculator  22.34
+write         16.02
+put_salt      18.73
+clean_glasses  17.43
+prick         20.43
+open_liquid_soap  21.05
+open_juice_bottle  22.82
+close_juice_bottle  20.10
+sprinkle      12.13
+give_card     23.68
+drink_mug     20.16
+stir          13.64
+put_sugar     16.11
+squeeze_paper  21.96
+Average       20.25
+loss gt each frame of 1 sample: 20.073580 mm
+loss thumb each frame of 1 sample: 19.550547 mm
+loss index each frame of 1 sample: 21.072115 mm
+loss middle each frame of 1 sample: 18.732210 mm
+loss ring each frame of 1 sample: 19.712662 mm
+loss pinky each frame of 1 sample: 20.678074 mm
+loss Wrist each frame of 1 sample: 22.562744 mm
+loss MCP each frame of 1 sample: 22.308628 mm
+loss PIP each frame of 1 sample: 18.662002 mm
+loss DIP each frame of 1 sample: 19.068727 mm
+loss TIP each frame of 1 sample: 19.757130 mm
